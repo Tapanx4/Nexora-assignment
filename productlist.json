@@ -1,0 +1,452 @@
+[
+  {
+    "product_id": "P-001",
+    "name": "Boho Maxi Dress",
+    "desc": "A flowy, floor-length dress with earthy tones and intricate paisley patterns. Made from light cotton, perfect for festival vibes or a beach day.",
+    "tags": ["boho", "festival", "summer", "flowy"]
+  },
+  {
+    "product_id": "P-002",
+    "name": "Urban Tech Runner",
+    "desc": "Sleek, black sneakers with neon green accents and a chunky, responsive sole. Designed for city exploration and making a bold statement.",
+    "tags": ["urban", "athletic", "techwear", "street"]
+  },
+  {
+    "product_id": "P-003",
+    "name": "Minimalist Gold Hoops",
+    "desc": "Classic, thin 18k gold hoop earrings. A timeless and elegant accessory that works for both professional meetings and casual outings.",
+    "tags": ["minimalist", "classic", "professional", "elegant"]
+  },
+  {
+    "product_id": "P-004",
+    "name": "Cozy Knit Cardigan",
+    "desc": "An oversized, chunky-knit cardigan in a warm cream color. Feels like a warm hug, perfect for reading by the fire or a chilly autumn walk.",
+    "tags": ["cozy", "comfort", "autumn", "hygge"]
+  },
+  {
+    "product_id": "P-005",
+    "name": "Distressed Denim Jacket",
+    "desc": "A vintage-wash denim jacket with strategic rips and a relaxed fit. The essential piece for a rebellious, edgy, and layered look.",
+    "tags": ["edgy", "street", "vintage", "casual"]
+  },
+  {
+    "product_id": "P-006",
+    "name": "Silk A-Line Skirt",
+    "desc": "A high-waisted, champagne-colored silk skirt that drapes beautifully. Sophisticated and chic, ideal for a dinner date or a formal event.",
+    "tags": ["chic", "elegant", "formal", "sophisticated"]
+  },
+  {
+    "product_id": "P-007",
+    "name": "Power-Move Blazer",
+    "desc": "A structured, sharp-shouldered blazer in royal blue. This piece commands attention and is perfect for a powerful, confident, urban look.",
+    "tags": ["professional", "urban", "powerful", "chic"]
+  },
+  {
+    "product_id": "P-008",
+    "name": "Retro Graphic Tee",
+    "desc": "A soft cotton T-shirt featuring a bold, retro 80s-inspired graphic print. Ideal for casual days and vintage street style.",
+    "tags": ["retro", "street", "casual", "vintage"]
+  },
+  {
+    "product_id": "P-009",
+    "name": "Linen Summer Set",
+    "desc": "A breathable linen crop top and shorts combo in soft sage green. Lightweight, airy, and perfect for resort wear or summer travel.",
+    "tags": ["summer", "resort", "boho", "natural"]
+  },
+  {
+    "product_id": "P-010",
+    "name": "Monochrome Jogger Set",
+    "desc": "A sleek black-and-white jogger set with minimalist lines. Combines comfort and streetwear aesthetics for everyday confidence.",
+    "tags": ["minimalist", "athleisure", "urban", "comfortable"]
+  },
+  {
+    "product_id": "P-011",
+    "name": "Romantic Lace Blouse",
+    "desc": "Delicate white lace blouse with puff sleeves and pearl buttons. Evokes a soft, romantic feel ideal for date nights or garden parties.",
+    "tags": ["romantic", "vintage", "elegant", "feminine"]
+  },
+  {
+    "product_id": "P-012",
+    "name": "Mountain Explorer Jacket",
+    "desc": "A rugged, water-resistant windbreaker in forest green. Built for outdoor adventures but stylish enough for the city.",
+    "tags": ["outdoor", "rugged", "functional", "adventure"]
+  },
+  {
+    "product_id": "P-013",
+    "name": "Artisan Leather Tote",
+    "desc": "Handcrafted full-grain leather tote bag with brass accents. Timeless design that ages beautifully and complements a sophisticated look.",
+    "tags": ["artisan", "classic", "luxury", "functional"]
+  },
+  {
+    "product_id": "P-014",
+    "name": "Neon Street Hoodie",
+    "desc": "Vibrant neon hoodie with oversized fit and bold logo print. Perfect for those who love expressive, high-energy streetwear.",
+    "tags": ["street", "bold", "urban", "expressive"]
+  },
+  {
+    "product_id": "P-015",
+    "name": "Serenity Yoga Set",
+    "desc": "A seamless, stretch-fit yoga bra and leggings set in muted lavender. Designed for movement, mindfulness, and effortless beauty.",
+    "tags": ["athleisure", "calm", "wellness", "minimalist"]
+  },
+  {
+    "product_id": "P-016",
+    "name": "Velvet Wrap Dress",
+    "desc": "Rich burgundy wrap dress made from soft velvet, flattering all figures. Perfect for evening events or romantic dinners.",
+    "tags": ["elegant", "romantic", "evening", "luxury"]
+  },
+  {
+    "product_id": "P-017",
+    "name": "Cropped Leather Jacket",
+    "desc": "A cropped black leather jacket with silver zippers. Adds instant edge to any outfit while maintaining a modern fit.",
+    "tags": ["edgy", "urban", "classic", "street"]
+  },
+  {
+    "product_id": "P-018",
+    "name": "Denim Midi Skirt",
+    "desc": "A medium-wash denim midi skirt with front slit and raw hem. Perfectly blends retro charm with modern casual.",
+    "tags": ["casual", "retro", "vintage", "everyday"]
+  },
+  {
+    "product_id": "P-019",
+    "name": "Athletic Windbreaker",
+    "desc": "Lightweight color-blocked windbreaker with adjustable hood. Functional, sporty, and stylish for outdoor workouts or travel.",
+    "tags": ["athletic", "sporty", "functional", "modern"]
+  },
+  {
+    "product_id": "P-020",
+    "name": "Tulle Midi Skirt",
+    "desc": "Soft blush tulle skirt with layered volume and satin waistband. A dreamy piece for parties, dates, or creative photoshoots.",
+    "tags": ["feminine", "romantic", "soft", "playful"]
+  },
+  {
+    "product_id": "P-021",
+    "name": "Wool Beret",
+    "desc": "Classic wool beret in deep charcoal. Brings effortless Parisian charm to any look.",
+    "tags": ["classic", "chic", "minimalist", "european"]
+  },
+  {
+    "product_id": "P-022",
+    "name": "Graphic Oversized Sweater",
+    "desc": "Oversized knit sweater with bold geometric patterns and bright colors. Adds fun and warmth to your fall wardrobe.",
+    "tags": ["artsy", "cozy", "retro", "playful"]
+  },
+  {
+    "product_id": "P-023",
+    "name": "Faux Fur Coat",
+    "desc": "Luxurious faux fur coat in creamy white. Glamorous yet cruelty-free, perfect for winter evenings.",
+    "tags": ["glam", "elegant", "luxury", "winter"]
+  },
+  {
+    "product_id": "P-024",
+    "name": "High-Waist Cargo Pants",
+    "desc": "Beige cargo pants with multiple pockets and tapered cuffs. Street-ready, functional, and ultra-modern.",
+    "tags": ["street", "utility", "urban", "modern"]
+  },
+  {
+    "product_id": "P-025",
+    "name": "Chunky Platform Boots",
+    "desc": "Black faux-leather platform boots with bold soles. A statement shoe for street or grunge fashion lovers.",
+    "tags": ["grunge", "bold", "edgy", "street"]
+  },
+  {
+    "product_id": "P-026",
+    "name": "Cable Knit Scarf",
+    "desc": "Extra-long wool scarf in soft oatmeal color. Wraps you in warmth and hygge comfort.",
+    "tags": ["cozy", "winter", "comfort", "neutral"]
+  },
+  {
+    "product_id": "P-027",
+    "name": "Tailored Wide-Leg Trousers",
+    "desc": "High-rise trousers in charcoal gray with perfect drape. A staple for office chic and minimalist wardrobes.",
+    "tags": ["professional", "minimalist", "chic", "classic"]
+  },
+  {
+    "product_id": "P-028",
+    "name": "Beaded Festival Top",
+    "desc": "Colorful hand-beaded crop top with fringe details. Made for dancing under the sun and celebrating creativity.",
+    "tags": ["boho", "festival", "artsy", "vibrant"]
+  },
+  {
+    "product_id": "P-029",
+    "name": "Puffer Vest",
+    "desc": "Lightweight metallic puffer vest with zip closure. Great for layering and adding shine to sporty looks.",
+    "tags": ["sporty", "functional", "modern", "shine"]
+  },
+  {
+    "product_id": "P-030",
+    "name": "Ribbed Knit Dress",
+    "desc": "Body-hugging ribbed dress in mocha brown. Simple yet flattering, ideal for everyday wear or layering.",
+    "tags": ["minimalist", "casual", "comfortable", "neutral"]
+  },
+  {
+    "product_id": "P-031",
+    "name": "Satin Slip Dress",
+    "desc": "Champagne-colored slip dress with thin straps and smooth drape. A timeless piece for date nights or formal events.",
+    "tags": ["chic", "romantic", "classic", "elegant"]
+  },
+  {
+    "product_id": "P-032",
+    "name": "Graphic Beanie",
+    "desc": "Soft knit beanie with embroidered street-art design. Perfect for creative and urban aesthetics.",
+    "tags": ["street", "artsy", "casual", "youthful"]
+  },
+  {
+    "product_id": "P-033",
+    "name": "Vegan Leather Pants",
+    "desc": "Matte black vegan leather pants with a slim silhouette. Combines cruelty-free ethics with edgy style.",
+    "tags": ["edgy", "modern", "chic", "vegan"]
+  },
+  {
+    "product_id": "P-034",
+    "name": "Oversized Denim Shirt",
+    "desc": "Light wash oversized denim shirt. Works as a jacket or layering piece for relaxed weekend looks.",
+    "tags": ["casual", "vintage", "relaxed", "layered"]
+  },
+  {
+    "product_id": "P-035",
+    "name": "Knitted Midi Dress",
+    "desc": "Soft knitted midi dress with turtleneck. Warm yet stylish for autumn brunches or cozy evenings.",
+    "tags": ["cozy", "chic", "autumn", "comfortable"]
+  },
+  {
+    "product_id": "P-036",
+    "name": "Lace-Up Combat Boots",
+    "desc": "Chunky lace-up combat boots in matte black. Adds attitude to skirts, jeans, or dresses.",
+    "tags": ["edgy", "grunge", "urban", "strong"]
+  },
+  {
+    "product_id": "P-037",
+    "name": "Pastel Hoodie Set",
+    "desc": "Soft pastel hoodie and joggers set in lilac tone. Cozy, cute, and perfect for self-care days.",
+    "tags": ["athleisure", "cozy", "cute", "relaxed"]
+  },
+  {
+    "product_id": "P-038",
+    "name": "Sequin Party Top",
+    "desc": "Silver sequin halter top that catches every light. A bold choice for parties and nightlife.",
+    "tags": ["bold", "party", "glam", "evening"]
+  },
+  {
+    "product_id": "P-039",
+    "name": "Corduroy Shirt Jacket",
+    "desc": "Rust-colored corduroy shacket with a soft feel. Ideal for layering and transitional weather.",
+    "tags": ["vintage", "retro", "cozy", "autumn"]
+  },
+  {
+    "product_id": "P-040",
+    "name": "Floral Midi Dress",
+    "desc": "Flowy floral dress with puff sleeves and square neckline. A romantic staple for springtime outings.",
+    "tags": ["feminine", "romantic", "spring", "boho"]
+  },
+  {
+    "product_id": "P-041",
+    "name": "Tailored Cropped Blazer",
+    "desc": "A modern cropped blazer in off-white linen. Combines professional edge with trend-forward styling.",
+    "tags": ["professional", "modern", "chic", "minimalist"]
+  },
+  {
+    "product_id": "P-042",
+    "name": "Quilted Crossbody Bag",
+    "desc": "Small quilted crossbody in blush pink with gold chain strap. Adds a feminine touch to any outfit.",
+    "tags": ["elegant", "classic", "feminine", "chic"]
+  },
+  {
+    "product_id": "P-043",
+    "name": "Wool Overcoat",
+    "desc": "Camel wool overcoat with structured shoulders and clean lines. A timeless outerwear staple.",
+    "tags": ["classic", "elegant", "professional", "winter"]
+  },
+  {
+    "product_id": "P-044",
+    "name": "Colorblock Sneakers",
+    "desc": "Chunky sneakers in bold colorblocks of teal, pink, and cream. Youthful and full of personality.",
+    "tags": ["sporty", "street", "colorful", "youthful"]
+  },
+  {
+    "product_id": "P-045",
+    "name": "Sheer Mesh Top",
+    "desc": "Black sheer mesh top with long sleeves. Layer it for a daring, nightlife-inspired vibe.",
+    "tags": ["edgy", "nightlife", "modern", "bold"]
+  },
+  {
+    "product_id": "P-046",
+    "name": "Ruffled Peasant Blouse",
+    "desc": "White cotton blouse with lace trim and gentle ruffles. A romantic take on classic boho style.",
+    "tags": ["boho", "romantic", "soft", "feminine"]
+  },
+  {
+    "product_id": "P-047",
+    "name": "Utility Jumpsuit",
+    "desc": "Olive green jumpsuit with cinched waist and cargo pockets. Effortless blend of functionality and trend.",
+    "tags": ["utility", "urban", "modern", "functional"]
+  },
+  {
+    "product_id": "P-048",
+    "name": "Embroidered Kimono",
+    "desc": "Long open kimono with floral embroidery and tassel trim. A boho statement piece for layered looks.",
+    "tags": ["boho", "artsy", "layered", "festival"]
+  },
+  {
+    "product_id": "P-049",
+    "name": "Silk Neck Scarf",
+    "desc": "Printed silk scarf in warm autumn tones. Adds vintage sophistication to any outfit.",
+    "tags": ["vintage", "elegant", "classic", "chic"]
+  },
+  {
+    "product_id": "P-050",
+    "name": "Padded Shoulder Tee",
+    "desc": "Minimalist cotton tee with padded shoulders. Adds structure to simple casual looks.",
+    "tags": ["minimalist", "modern", "structured", "casual"]
+  },
+  {
+    "product_id": "P-051",
+    "name": "Faux Suede Mini Skirt",
+    "desc": "Camel faux suede mini with wrap front detail. Soft texture meets playful sophistication.",
+    "tags": ["chic", "playful", "fall", "textured"]
+  },
+  {
+    "product_id": "P-052",
+    "name": "Knitted Bucket Hat",
+    "desc": "Colorful knitted bucket hat with handmade aesthetic. A quirky and artsy fashion touch.",
+    "tags": ["artsy", "retro", "boho", "colorful"]
+  },
+  {
+    "product_id": "P-053",
+    "name": "High-Neck Ribbed Tank",
+    "desc": "Basic ribbed tank with a high neckline. A minimalist layering essential.",
+    "tags": ["minimalist", "layering", "casual", "basic"]
+  },
+  {
+    "product_id": "P-054",
+    "name": "Halter Jumpsuit",
+    "desc": "Black halter jumpsuit with cinched waist and wide-leg fit. Effortlessly elegant for events or nights out.",
+    "tags": ["chic", "elegant", "evening", "modern"]
+  },
+  {
+    "product_id": "P-055",
+    "name": "Pleated Culottes",
+    "desc": "Flowy pleated culottes in dusty rose. Elegant and comfortable, ideal for creative workspaces.",
+    "tags": ["feminine", "elegant", "creative", "comfortable"]
+  },
+  {
+    "product_id": "P-056",
+    "name": "Boho Fringe Jacket",
+    "desc": "Tan suede-look jacket with fringe details. A true bohemian showstopper.",
+    "tags": ["boho", "festival", "vintage", "bold"]
+  },
+  {
+    "product_id": "P-057",
+    "name": "Cable Knit Beanie",
+    "desc": "Soft wool beanie in dusty pink. Cozy, minimalist, and essential for cold days.",
+    "tags": ["cozy", "minimalist", "winter", "neutral"]
+  },
+  {
+    "product_id": "P-058",
+    "name": "Striped Linen Shirt",
+    "desc": "Breathable linen shirt with blue and white stripes. Casual coastal vibes all year long.",
+    "tags": ["summer", "coastal", "casual", "natural"]
+  },
+  {
+    "product_id": "P-059",
+    "name": "Ribbed Cardigan Set",
+    "desc": "Matching rib-knit cardigan and tank set in ivory. Cozy yet put-together for transitional weather.",
+    "tags": ["cozy", "minimalist", "chic", "comfortable"]
+  },
+  {
+    "product_id": "P-060",
+    "name": "Woven Straw Hat",
+    "desc": "Wide-brim straw hat with ribbon detail. The perfect boho accessory for sunny days.",
+    "tags": ["boho", "summer", "natural", "vacation"]
+  },
+  {
+    "product_id": "P-061",
+    "name": "Ruched Bodycon Dress",
+    "desc": "Figure-flattering ruched dress in emerald green. Designed for confidence and night-out energy.",
+    "tags": ["bold", "nightlife", "sexy", "modern"]
+  },
+  {
+    "product_id": "P-062",
+    "name": "Cropped Sweatshirt",
+    "desc": "Soft fleece cropped sweatshirt in faded gray. A sporty essential with street style vibes.",
+    "tags": ["sporty", "urban", "casual", "comfortable"]
+  },
+  {
+    "product_id": "P-063",
+    "name": "Puff Sleeve Blouse",
+    "desc": "Cotton puff sleeve blouse in light blue. A feminine and versatile wardrobe piece.",
+    "tags": ["feminine", "classic", "elegant", "chic"]
+  },
+  {
+    "product_id": "P-064",
+    "name": "Ribbed Knit Pants",
+    "desc": "Soft ribbed knit pants with wide leg. Cozy yet refined enough for lounging or travel.",
+    "tags": ["cozy", "minimalist", "comfortable", "modern"]
+  },
+  {
+    "product_id": "P-065",
+    "name": "Denim Overall Dress",
+    "desc": "Light blue denim pinafore with front pockets. Perfect for layering and everyday playfulness.",
+    "tags": ["casual", "vintage", "playful", "retro"]
+  },
+  {
+    "product_id": "P-066",
+    "name": "Floral Kimono Robe",
+    "desc": "Silky kimono robe with cherry blossom print. Great for lounging or elegant layering.",
+    "tags": ["feminine", "boho", "elegant", "soft"]
+  },
+  {
+    "product_id": "P-067",
+    "name": "Satin Bomber Jacket",
+    "desc": "Rose gold satin bomber with ribbed cuffs. Adds luxe street flair to simple outfits.",
+    "tags": ["street", "luxury", "modern", "bold"]
+  },
+  {
+    "product_id": "P-068",
+    "name": "Knit Midi Skirt",
+    "desc": "Soft stretch-knit midi skirt in camel tone. Pairs effortlessly with sweaters or boots.",
+    "tags": ["minimalist", "autumn", "cozy", "neutral"]
+  },
+  {
+    "product_id": "P-069",
+    "name": "Oversized Plaid Blazer",
+    "desc": "Checked wool-blend blazer with vintage structure. A staple for retro-inspired professionals.",
+    "tags": ["professional", "retro", "classic", "chic"]
+  },
+  {
+    "product_id": "P-070",
+    "name": "Belted Trench Coat",
+    "desc": "Long beige trench coat with tie waist and storm flaps. The epitome of timeless style.",
+    "tags": ["classic", "elegant", "professional", "chic"]
+  },
+  {
+    "product_id": "P-071",
+    "name": "Turtleneck Sweater Dress",
+    "desc": "Ribbed turtleneck dress in soft taupe. Cozy sophistication for winter outings.",
+    "tags": ["cozy", "chic", "elegant", "winter"]
+  },
+  {
+    "product_id": "P-072",
+    "name": "Canvas Tote Bag",
+    "desc": "Minimalist off-white canvas tote with leather straps. A sustainable everyday carry option.",
+    "tags": ["minimalist", "eco", "functional", "casual"]
+  },
+  {
+    "product_id": "P-073",
+    "name": "Printed Palazzo Pants",
+    "desc": "Wide-leg palazzo pants with tropical prints. A statement piece for summer adventures.",
+    "tags": ["boho", "tropical", "bold", "summer"]
+  },
+  {
+    "product_id": "P-074",
+    "name": "Chunky Knit Sweater",
+    "desc": "Cream cable-knit sweater with balloon sleeves. The ultimate cozy winter staple.",
+    "tags": ["cozy", "winter", "neutral", "classic"]
+  },
+  {
+    "product_id": "P-075",
+    "name": "Statement Choker Necklace",
+    "desc": "Gold choker with layered chains and gemstone details. Designed to elevate night-out looks.",
+    "tags": ["bold", "elegant", "statement", "chic"]
+  }
+]

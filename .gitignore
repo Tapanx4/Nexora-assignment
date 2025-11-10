@@ -1,0 +1,12 @@
+Python
+
+pycache/
+*.pyc
+
+Environment
+
+.env
+
+Notebook checkpoints
+
+.ipynb_checkpoints/
